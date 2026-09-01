@@ -1,6 +1,8 @@
 ---
 theme: default
 title: Saif Ali Khan
+addons:
+  - slidev-component-progress
 info: |
   Know me, before you hire me.
   
