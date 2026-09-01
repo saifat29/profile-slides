@@ -1,7 +1,6 @@
 ---
 theme: default
 title: Saif Ali Khan
-base: /profile-slides/
 addons:
   - slidev-component-progress
 info: |
